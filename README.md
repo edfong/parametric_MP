@@ -1,5 +1,5 @@
 # Parametric Martingale Posteriors
-This repository contains the code for the illustrations in the preprint "Asymptotics for parametric martingale posteriors" by Edwin Fong & Andrew Yiu which can be found [here](https://arxiv.org/abs/???). 
+This repository contains the code for the illustrations in the preprint "Asymptotics for parametric martingale posteriors" by Edwin Fong & Andrew Yiu which can be found [here](https://arxiv.org/abs/2410.17692). 
 
 ## Running Experiments
 All experiment can be found in ``./run_scripts``, which utilize the functions implemented in ``./src``.
